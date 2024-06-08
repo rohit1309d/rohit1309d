@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **rdhaipule@cs.stonybrook.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17ZNAqJfBL-Em1z7rdJTrNJ8YTlOWkvBM/view?usp=drivesdk](https://drive.google.com/file/d/17ZNAqJfBL-Em1z7rdJTrNJ8YTlOWkvBM/view?usp=drivesdk)
+- 📄 Know about my experiences [here](https://shorturl.at/PgdeK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
