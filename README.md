@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Rohit Dhaipule</h1>
-<h3 align="center">A passionate ML researcher and full stack developer from India</h3>
+<h3 align="center">A passionate ML Researcher and Full Stack developer </h3>
 
 - 📫 How to reach me **rdhaipule@cs.stonybrook.edu**
 
